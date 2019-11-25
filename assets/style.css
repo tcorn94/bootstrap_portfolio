@@ -12,6 +12,7 @@ body{
    
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: rgb(109, 149, 155);
+    border: solid 2px black;
 
 }
 
@@ -28,6 +29,8 @@ img{
 footer{
     position: fixed;
     bottom: 0;
+    font-size: large;
+
 
 
 }
