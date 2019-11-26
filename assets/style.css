@@ -14,7 +14,8 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color:rgb(153, 147, 147);
     border: solid 2px black;
-    margin-top: 60px;
+    margin-top: 90px;
+        
 
 }
 
@@ -24,12 +25,12 @@ h1{
 }
 
 img{
-    border: solid #777777 3px;
+    border: solid black 3px;
     margin: 20px;
 }
 
 footer{
-    position: fixed;
+    position: absolute;
     bottom: 0;
     font-size: large;
     margin-left: 27%;
