@@ -1,5 +1,6 @@
-.navbar{
-    background-color: rgb(109, 149, 155);
+.navbar-brand,
+.navbar-nav a {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body{
@@ -11,7 +12,7 @@ body{
 .container{
    
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: rgb(109, 149, 155);
+    background-color:rgb(153, 147, 147);
     border: solid 2px black;
     margin-top: 60px;
 
@@ -23,7 +24,7 @@ h1{
 }
 
 img{
-    border: solid teal 3px;
+    border: solid #777777 3px;
     margin: 20px;
 }
 
