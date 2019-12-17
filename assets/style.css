@@ -17,6 +17,7 @@ body{
     margin-top: 90px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     vertical-align: middle;
+
         
 
 }
@@ -47,4 +48,12 @@ footer{
 p {
 margin-left: -110px;
 
+}
+
+#brand{
+    margin: 20px;
+}
+
+hr{
+    height: 3px;
 }
